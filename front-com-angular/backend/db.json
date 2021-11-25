@@ -1,0 +1,30 @@
+{
+  "casa": [
+    {
+      "nomeCasa": "Rastro do Cowboy",
+      "enderecoCasa": "rastrodocowboy.com",
+      "qtddPessoas": "100",
+      "id": 1
+    }
+  ],
+  "cadastro": [
+    {
+      "email": " ",
+      "CPF": " ",
+      "nome": " ",
+      "dataNasc": " ",
+      "telefone": " ",
+      "id": 1
+    },
+    {
+      "email": "efpojqpejfporf",
+      "CPF": " 484546465",
+      "nome": " jwpiefjiewrfihrphg feipopqwjprefij",
+      "dataNasc": "2020-02-01",
+      "telefone": "265467884545",
+      "id": 2
+    }
+  ],
+  "compra": [],
+  "evento": []
+}
